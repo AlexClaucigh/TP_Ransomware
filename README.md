@@ -4,8 +4,9 @@ A great simulation of a bad thing...
 
 Le virus dans le dépot est innofensif, et a été créé pour simuler l'utilisation d'un ransomware et d'en voir toutes les étapes.
 
-
 Le code est commenté pour comprendre son utilisation.
+
+Pour que le virus fonctionne, il faut déposer le "dossier_mega_important" sur le burreau, et executer ce virus depuis les téléchargements.
 
 
 CE QU'IL RESTE A FAIRE :
