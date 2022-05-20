@@ -1,5 +1,6 @@
 # TP_Ransomware
 A great simulation of a bad thing...
+Réalisé par Guillaume CARLIN, Nils OBERHOLZ, Thierry PORTAL et Alexandre CLAUCIGH
 
 
 Le virus dans le dépot est innofensif, et a été créé pour simuler l'utilisation d'un ransomware et d'en voir toutes les étapes.
