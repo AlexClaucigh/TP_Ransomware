@@ -22,4 +22,5 @@ Chacun des équipements sera un machine virtuelle qui devra avoir un serveur ssh
         - Serveurs ssh sur chaque machine pour l'attaque par dictionnaire (avec Cygwin par exemple)
         - Une machine kali pour l'attaque par dictionnaire
  - Créer un dictionnaire de mots de passe en fonction des machine virtuelles que vous aurez créées (avec des mauvais et le bon parmi eux)
+ - Etablir une liste des bonnes pratiques pour éviter ce type d'attaque ou l'inclure dans le TP
         
