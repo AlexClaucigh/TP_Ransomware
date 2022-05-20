@@ -21,4 +21,5 @@ Chacun des équipements sera un machine virtuelle qui devra avoir un serveur ssh
         - Serveur mail à installer sur la ferme de serveurs (pour des raisons de sécurité ne pas utiliser Outlook)
         - Serveurs ssh sur chaque machine pour l'attaque par dictionnaire (avec Cygwin par exemple)
         - Une machine kali pour l'attaque par dictionnaire
+ - Créer un dictionnaire de mots de passe en fonction des machine virtuelles que vous aurez créées (avec des mauvais et le bon parmi eux)
         
