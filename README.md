@@ -1,5 +1,6 @@
 # TP_Ransomware
 A great simulation of a bad thing...
+
 Réalisé par Guillaume CARLIN, Nils OBERHOLZ, Thierry PORTAL et Alexandre CLAUCIGH
 
 
@@ -22,6 +23,7 @@ Chacun des équipements sera un machine virtuelle qui devra avoir un serveur ssh
  - Ne fonctionne que sur Windows (il faudrait adapter le virus pour les OS Linux si possible)
  
  - Setup de la ferme :
+ 
         - Serveur mail à installer sur la ferme de serveurs (pour des raisons de sécurité ne pas utiliser Outlook)
         - Serveurs ssh sur chaque machine (avec Cygwin par exemple) pour la connexion (depuis la machine kali) lors de l'étape de l'attaque par dictionnaire 
         - Une machine kali pour l'attaque par dictionnaire
